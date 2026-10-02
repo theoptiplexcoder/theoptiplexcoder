@@ -1,7 +1,7 @@
 # theoptiplexcoder
 
 I enjoy building software, working with Linux, open source.
-I use Pi Harness coding and i love it.
+I use Pi Harness coding agent and i love it.
 
 ## 📫 Connect With Me
 
